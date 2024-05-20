@@ -49,6 +49,7 @@ textarea {
 
 textarea {
   height: 100px;
+  resize: none;
 }
 
 .error-input {

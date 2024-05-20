@@ -13,12 +13,12 @@ A simple contact form with basic validation.
 
 The contact form includes fields for name, email, and message, with basic email validation and a confirmation message upon submission.
 
-1. src/ContactForm.js: Contains the ContactForm component logic and validation.
-2. src/App.js: The main application component that renders the ContactForm component.
+1. `src/ContactForm.js`: Contains the ContactForm component logic and validation.
+2. `src/App.js`: The main application component that renders the ContactForm component.
 
 ## Demo
 
-https://antoinewtz.github.io/contact-form/
+[Demo Link](https://antoinewtz.github.io/contact-form/) 
 
 ## Technologies Used
 
